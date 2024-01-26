@@ -1,1 +1,1 @@
-# Juego-N-mero-Secreto
+# Juego-Numero-Secreto
